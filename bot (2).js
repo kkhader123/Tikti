@@ -1,6 +1,6 @@
 const Discord  = require('discord.js');
 const client     = new Discord.Client();
-const prefix   = "1";
+const prefix   = "2";
 const category = "582572987312635930";
 const devs     = ["517824699187593227"];
 let mtickets   = true;
